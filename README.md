@@ -18,4 +18,15 @@ Factor dispersion aims to calculate the factor dispersion and find the relations
 
 ## Environment Prepared
 
+   * The version of python: 3.8
+   * We recommed you to use pycharm. After you download it and you can use pycharm to run it
+
+## Result
+
+   Here I run the analysis of BP factor.
+   
+   * The dispersion of BP factor.
+   * The relationship between BP factor dispersion and it's longshort netvalue, future's 12 months' ICIR
+   * The regression 
+
 
