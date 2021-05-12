@@ -23,10 +23,19 @@ Factor dispersion aims to calculate the factor dispersion and find the relations
 
 ## Result
 
-   Here I run the analysis of BP factor.
+   Here I run the analysis of BP factor. From the result you can find that there is indeed relationship between the factor dispersion and its future's performance.
+   When the factor dispersion is large in the future it tend to play an important role and can get good return.
    
    * The dispersion of BP factor.
+   
+       <img src="https://github.com/algo21-220040002/Assign3/blob/master/Paper/BP_factor_dispersion.png" width="800" height="200" /><br/>
+       
    * The relationship between BP factor dispersion and it's longshort netvalue, future's 12 months' ICIR
+   
+       <img src="https://github.com/algo21-220040002/Assign3/blob/master/Paper/BP_factor_dispersion_relationship.png" width="800" height="800" /><br/>
+       
    * The regression 
+   
+       <img src="https://github.com/algo21-220040002/Assign3/blob/master/Paper/BP_regression.png" width="800" height="400" /><br/>
 
 
